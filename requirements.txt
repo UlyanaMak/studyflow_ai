@@ -1,0 +1,6 @@
+langgraph
+langchain-core
+langchain-ollama
+langchain-chroma
+langchain-mcp-adapters
+chromadb
